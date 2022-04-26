@@ -1,0 +1,15 @@
+.input-field {
+  margin-bottom: 0;
+}
+
+.input-field label,
+.input-field-error {
+  display: block;
+  font-size: 80%;
+}
+
+.input-field-error {
+  color: red;
+  padding-top: 4px;
+  padding-bottom: 12px;
+}
